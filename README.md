@@ -1,2 +1,2 @@
 # Statistical-Learning
-Statistical Learning Labs
+Statistical Learning Labs @ ENSAE ParisTech
