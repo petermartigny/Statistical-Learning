@@ -1,5 +1,4 @@
-# Statistical-Learning
-Course Project
+# Statistical-Learning - Course Project
 
 # Amazon book reviews Data Set (https://archive.ics.uci.edu/ml/datasets/Amazon+book+reviews)
 
