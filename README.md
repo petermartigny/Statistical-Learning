@@ -1,6 +1,5 @@
-# Statistical-Learning
+# Statistical Learning Theory
 Statistical Learning course @ ENSAE ParisTech from [Arnak Dalalyan](http://www.arnak-dalalyan.fr/)
-#### Note: this course focuses mor on the theoretical aspects of learning than usual practical machine learning class
 
 ### Course 1
 Introduction to statistical learning & comparison with statistics
